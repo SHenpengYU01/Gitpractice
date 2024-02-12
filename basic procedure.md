@@ -15,3 +15,5 @@ git commit -m "i want to make a change"
 git pull main //to get the latest version of the remote "main"
 git push main //to make the real change of the remote "main"
 git log       //display all the commit records
+
+## some other things
