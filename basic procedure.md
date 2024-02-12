@@ -12,8 +12,9 @@ git add .
 git add readme
 git commit
 git commit -m "i want to make a change"
-git pull main //to get the latest version of the remote "main"
-git push main //to make the real change of the remote "main"
-git log       //display all the commit records
+git pull main // get the latest version of the remote "main"
+git push main // make the real change of the remote "main"
+git log       // display all the commit records
+git reflog    // reference log ,only display commits with reference
 
 ## some other things
